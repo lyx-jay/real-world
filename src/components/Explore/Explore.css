@@ -1,0 +1,32 @@
+.wrapper__header {
+  padding: 2rem 0 1rem 1rem;
+}
+
+.wrapper__main {
+  padding: 0 0 1rem 1rem;
+}
+
+input {
+  height: 25px;
+  outline: none;
+  margin-right: 1rem;
+  /* border-radius: 4px; */
+}
+
+button {
+  width: 25px;
+  height: 25px;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(123, 123, 224);
+  cursor: pointer;
+}
+
+.wrapper__footer {
+  padding: 0 0 0 1rem;
+}
+
+.footer__text {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}

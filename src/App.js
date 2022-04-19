@@ -1,9 +1,14 @@
+import React from "react";
+
+import "./GlobalStyle/index.css"
+import Explore from "./components/Explore/Explore";
+
 
 function App() {
   return (
-    <div className="App">
-      app
-    </div>
+    <>
+      <Explore />
+    </>
   );
 }
 
